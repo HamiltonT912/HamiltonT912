@@ -5,7 +5,7 @@
 <h2>🔨 Cybersecurity Projects:</h2>
 
 - <b>Full Pentesting Report</b>
-  - [Pentest Pals-Skillcloud](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Pentest Pals-Skillcloud (Pending)](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Pentesting Report: Enumeration, Exploitation, Lateral Movement</b>
   - [VulnHub-Praying 1](https://github.com/HamiltonT912/Praying1)
  - <b>Active Directory Homelab</b>
