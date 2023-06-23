@@ -15,6 +15,7 @@
 
 - [CompTIA PenTest+](https://www.credly.com/badges/39829713-229b-48f9-857a-a424a5e543f9/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/5db1532e-4f4e-407e-b37e-c635f9759402/public_url)
+- [CompTIA Net+](https://www.credly.com/badges/c4a17551-c2c5-4135-a321-4911ee3926d4/public_urll)
 - [CompTIA A+](https://www.credly.com/badges/c4a17551-c2c5-4135-a321-4911ee3926d4/public_url)
 
 <h2> 🤳🏾Connect with me:</h2>
